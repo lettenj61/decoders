@@ -7,7 +7,7 @@
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "files": [
-    "dist"
+    "lib"
   ],
   "scripts": {
     "build": "npm run build:dts && npm run build:esm && npm run build:umd",
